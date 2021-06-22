@@ -9,6 +9,8 @@ Individuals Servers for:
 * Students
 
 The email and web servers (Main Server, given an IP address of 192.168.0.5) will be configured in the IT.   
-Each switch will be given a name to the network they are assigned to.   
+Each switch will be given a name to the network they are assigned to.  
+![Untitled (1)](https://user-images.githubusercontent.com/75525185/122976579-239c0900-d3b2-11eb-9d5b-6f6462daf22a.gif)
+
    
    For further reference, a presentation has been attached too!
